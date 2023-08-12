@@ -9,6 +9,12 @@ ChoreDash - a small python game I co-developed, winning 1st place at the 2023 Ca
 <br>
 Jerma985 - a discord bot i co-developed, winning 1st place at the Aggie Coding Club 2022 Discord Bot Competition
 
+### skills
+- python
+- backend
+
+backend >> frontend
+
 <!--
 **hmukesh5/hmukesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
