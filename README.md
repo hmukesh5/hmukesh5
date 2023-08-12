@@ -1,8 +1,8 @@
-### hello 👋
+## hello 👋
 
 my name is hemanth, and i'm a junior cs major at tamu.
 
-#### projects
+### projects
 ChoreDash - a small python game I co-developed, winning 1st place at the 2023 Capsher Coding Competition
 <br>
 Jerma985 - a discord bot i co-developed, winning 1st place at the Aggie Coding Club 2022 Discord Bot Competition
