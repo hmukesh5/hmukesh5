@@ -2,7 +2,7 @@
 
 my name is hemanth, and i'm a junior cs major at tamu.
 
-💻 currently creating a personal website
+🚧 personal website under construction 🚧
 
 ### projects
 ChoreDash - a small python game I co-developed, winning 1st place at the 2023 Capsher Coding Competition
