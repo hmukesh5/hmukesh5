@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello! My name is Hemanth Mukesh, and I am a junior CS major at Texas A&M. Here you can find the projects that I have made!
+
 <!--
 **hmukesh5/hmukesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
