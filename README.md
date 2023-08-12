@@ -1,4 +1,4 @@
-<h2> hello 👋 </h2>
+### hello 👋
 
 my name is hemanth, and i'm a junior cs major at tamu.
 
