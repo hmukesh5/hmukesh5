@@ -10,7 +10,7 @@ my name is hemanth, and i'm a junior cs major at tamu. welcome to my github!
 - Jerma985 - a discord bot i co-developed, winning 1st place at the Aggie Coding Club 2022 Discord Bot Competition
 
 ### research
-- currently researching In-band Network Telemetry with a professor from IIT Gandhinagar
+- currently researching In-band Network Telemetry with a professor from IIT Gandhinagar from my research internship there last summer
 
 <!--
 **hmukesh5/hmukesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
