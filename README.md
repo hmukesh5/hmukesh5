@@ -1,6 +1,6 @@
 ### hello 👋
 
-my name is hemanth, and i'm a junior cs major at tamu.
+my name is hemanth, and i'm a junior cs major at tamu. welcome to my github!
 
 🚧 under construction 🚧
 - personal website
