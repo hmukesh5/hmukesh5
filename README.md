@@ -12,12 +12,6 @@ my name is hemanth, and i'm a junior cs major at tamu. welcome to my github!
 ### research
 - currently researching In-band Network Telemetry with a professor from IIT Gandhinagar from my research internship there last summer
 
-### skills
-#### primary
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java)](https://skillicons.dev)
-#### secondary
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
-
 <!--
 **hmukesh5/hmukesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
