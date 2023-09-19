@@ -3,7 +3,7 @@
 my name is hemanth, and i'm a 3rd year cs major at tamu. welcome to my github!
 
 🚧 under construction 🚧
-- personal website
+- personal website: http://people.tamu.edu/~hmukesh
 
 ### projects
 - ChoreDash - a small python game I co-developed, winning 1st place at the 2023 Capsher Coding Competition
