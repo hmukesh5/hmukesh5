@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 -->
 
 ### connect  
-You can find me on...  
-linkedin: https://www.linkedin.com/in/hmukesh5/  
-Instagram: @hemanth.mukesh  
+you can find me on...
+- linkedin: https://www.linkedin.com/in/hmukesh5/
+- Instagram: @hemanth.mukesh
