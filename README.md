@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### connect
-You can find me on...
-linkedin: https://www.linkedin.com/in/hmukesh5/
-Instagram: @hemanth.mukesh
+### connect  
+You can find me on...  
+linkedin: https://www.linkedin.com/in/hmukesh5/  
+Instagram: @hemanth.mukesh  
