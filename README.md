@@ -11,5 +11,5 @@ my name is hemanth, and i'm a 3rd year cs major at tamu. welcome to my github!
 - Jerma985 - a discord bot i co-developed, winning 1st place at the Aggie Coding Club 2022 Discord Bot Competition
 
 ### connect  
-- linkedin: https://www.linkedin.com/in/hmukesh5/
+- LinkedIn: https://www.linkedin.com/in/hmukesh5/
 - Instagram: @hemanth.mukesh
