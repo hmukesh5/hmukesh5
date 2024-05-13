@@ -1,6 +1,6 @@
-### hello 👋
+# hello 👋
 
-my name is hemanth, and i'm a 3rd year cs major at tamu. welcome to my github!
+## my name is hemanth, and i'm a 3rd year cs major at tamu. welcome to my github!
 
 🚧 under construction 🚧
 - personal website: ---
