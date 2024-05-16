@@ -3,7 +3,7 @@
 
 
 ### 🚧 under construction 🚧
-- personal website: https://hmukesh5.github.io
+- personal website: https://hmukesh.me
 
 ### projects on this github
 - [wordle by hemanth](http://github.com/hmukesh5/wordle-clone) - a wordle clone developed in React.js
