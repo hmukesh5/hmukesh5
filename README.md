@@ -1,5 +1,5 @@
 ## hello 👋
-### my name is hemanth, and i'm a cs student at tamu, graduating in may 2025. welcome to my github!
+my name is hemanth, and i'm a cs student at tamu, graduating in may 2025. welcome to my github!
 
 
 ### 🚧 under construction 🚧
