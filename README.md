@@ -1,9 +1,7 @@
 ## hello 👋
-my name is hemanth, and i'm a cs student at tamu, graduating in may 2025. welcome to my github!
+my name is Hemanth, and i'm a cs student at tamu, graduating in may 2025. welcome to my github !
 
-
-### 🚧 under construction 🚧
-- personal website: https://hmukesh.me
+### personal website: https://hmukesh.me
 
 ### projects on this github
 - [wordle by hemanth](http://github.com/hmukesh5/wordle-clone) - a wordle clone developed in React.js
