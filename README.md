@@ -10,5 +10,5 @@ i'm a cs student at tamu, graduating in may 2025. welcome to my github !
 - [Jerma985](https://github.com/prknezek/Jerma985Bot) - a discord bot i co-developed, winning 1st place at the Aggie Coding Club 2022 Discord Bot Competition
 
 ### connect  
-- LinkedIn: https://www.linkedin.com/in/hmukesh5/
-- Instagram: @hemanth.mukesh
+- linkedin: https://www.linkedin.com/in/hmukesh5/
+- instagram: @hemanth.mukesh
