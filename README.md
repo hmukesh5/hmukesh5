@@ -1,5 +1,5 @@
 ## hello 👋
-i'm a cs student at tamu, graduating in may 2025. welcome to my github !
+i'm a cs student at tamu, graduating in 2025. welcome to my github !
 
 ### personal website: https://hmukesh.me
 
