@@ -17,3 +17,8 @@ i'm a cs student at tamu, graduating in may 2025. welcome to my github !
 ### connect  
 - linkedin: https://www.linkedin.com/in/hmukesh5/
 - instagram: @hemanth.mukesh
+
+### some other cool people
+- https://github.com/prknezek
+- https://github.com/adnanysf
+- https://github.com/Kambroyr
